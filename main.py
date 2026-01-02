@@ -1,3 +1,3 @@
-'Aotpy/tobi' = U
-'obitostuffs / obitoapi' = C
-'aotpy.vercel.app' = p
+U = 'Aotpy/tobi'
+C = 'obitostuffs / obitoapi'
+P = 'https://aotpy.vercel.app/'
